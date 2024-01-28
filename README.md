@@ -25,3 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 "# checkout-page" 
 "# myrepo" 
 "# myrepo" 
+"# my-repo" 
